@@ -1,0 +1,57 @@
+
+body a{
+	text-decoration: none;
+}
+.text-wrapper h3{
+	color: #000000;
+}
+@media only screen and (max-width: 600px) {
+  .mdc-menu-anchor  img {
+    display: none;
+  }
+}
+
+
+
+ .mySlides {display: none}
+ .mySlides iframe{
+ 	width: 900px;
+ 	height: 450px;
+   margin: auto;
+ }
+
+ @media only screen and (max-width: 800px){
+  .mySlides iframe{
+ 	width: 100%;
+ 	height: 400px;
+   margin: auto;
+ }
+ }
+
+
+
+/* Hide the images by default */
+.mySlidesexam {
+  display: none;
+}
+
+.mySlidesexam p{
+	font-weight: bold;
+	color: #000000;
+	font-size: 15px;
+}
+
+.ans-box{
+	margin-top:25px;
+}
+.skip{
+	background: red;
+	color: #ffffff;
+	width: 100px;
+	padding: 5px;
+	margin-top: 8px;
+}
+
+.ans-box{
+	line-height: 30px;
+}

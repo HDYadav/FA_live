@@ -1,0 +1,18 @@
+
+<textarea id = "textArea">
+    Notes here...
+</textarea>
+
+<button onclick="savetextarea()" type="button">Save</button>
+
+<script>
+    function savetextarea(){
+        var txt = document.getElementById("textArea").value;
+        document.getElementById("saveinput").value = txt;
+        document.forms["aForm"].submit();
+    }
+</script>
+
+<form action="savecontent" name="aForm">
+    <input id="saveinput" type="hidden" name="filecontent" value="">
+</form>

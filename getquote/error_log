@@ -1,0 +1,304 @@
+[27-Jun-2020 06:56:20 UTC] PHP Notice:  Undefined index: height in /home/x94vk0h1ekwj/public_html/amit/firstadvisor/Getquote/Proposal.php on line 591
+[27-Jun-2020 06:56:20 UTC] PHP Notice:  Undefined index: weight in /home/x94vk0h1ekwj/public_html/amit/firstadvisor/Getquote/Proposal.php on line 592
+[27-Jun-2020 06:56:20 UTC] PHP Notice:  Undefined index: occupation in /home/x94vk0h1ekwj/public_html/amit/firstadvisor/Getquote/Proposal.php on line 593
+[27-Jun-2020 06:56:20 UTC] PHP Notice:  Undefined index: qualification in /home/x94vk0h1ekwj/public_html/amit/firstadvisor/Getquote/Proposal.php on line 594
+[27-Jun-2020 06:56:20 UTC] PHP Notice:  Undefined index: diseaseno in /home/x94vk0h1ekwj/public_html/amit/firstadvisor/Getquote/Proposal.php on line 595
+[27-Jun-2020 06:56:20 UTC] PHP Notice:  Undefined index: no-cancer in /home/x94vk0h1ekwj/public_html/amit/firstadvisor/Getquote/Proposal.php on line 596
+[27-Jun-2020 06:56:20 UTC] PHP Notice:  Undefined index: self-cancer in /home/x94vk0h1ekwj/public_html/amit/firstadvisor/Getquote/Proposal.php on line 597
+[27-Jun-2020 06:56:20 UTC] PHP Notice:  Undefined index: no_cardiacailments in /home/x94vk0h1ekwj/public_html/amit/firstadvisor/Getquote/Proposal.php on line 598
+[27-Jun-2020 06:56:20 UTC] PHP Notice:  Undefined index: self_cardiacailments in /home/x94vk0h1ekwj/public_html/amit/firstadvisor/Getquote/Proposal.php on line 599
+[27-Jun-2020 06:56:20 UTC] PHP Notice:  Undefined index: no_copd in /home/x94vk0h1ekwj/public_html/amit/firstadvisor/Getquote/Proposal.php on line 600
+[27-Jun-2020 06:56:20 UTC] PHP Notice:  Undefined index: self_copd in /home/x94vk0h1ekwj/public_html/amit/firstadvisor/Getquote/Proposal.php on line 601
+[27-Jun-2020 06:56:20 UTC] PHP Notice:  Undefined index: no_hiv in /home/x94vk0h1ekwj/public_html/amit/firstadvisor/Getquote/Proposal.php on line 602
+[27-Jun-2020 06:56:20 UTC] PHP Notice:  Undefined index: self_hiv in /home/x94vk0h1ekwj/public_html/amit/firstadvisor/Getquote/Proposal.php on line 603
+[27-Jun-2020 06:56:20 UTC] PHP Notice:  Undefined index: no_insulin in /home/x94vk0h1ekwj/public_html/amit/firstadvisor/Getquote/Proposal.php on line 604
+[27-Jun-2020 06:56:20 UTC] PHP Notice:  Undefined index: self_insulin in /home/x94vk0h1ekwj/public_html/amit/firstadvisor/Getquote/Proposal.php on line 605
+[27-Jun-2020 06:56:20 UTC] PHP Notice:  Undefined index: no_kidneyailment in /home/x94vk0h1ekwj/public_html/amit/firstadvisor/Getquote/Proposal.php on line 606
+[27-Jun-2020 06:56:20 UTC] PHP Notice:  Undefined index: height in /home/x94vk0h1ekwj/public_html/amit/firstadvisor/Getquote/Proposal.php on line 607
+[27-Jun-2020 06:56:20 UTC] PHP Notice:  Undefined index: no_liverdisease in /home/x94vk0h1ekwj/public_html/amit/firstadvisor/Getquote/Proposal.php on line 608
+[27-Jun-2020 06:56:20 UTC] PHP Notice:  Undefined index: self_liverdisease in /home/x94vk0h1ekwj/public_html/amit/firstadvisor/Getquote/Proposal.php on line 609
+[27-Jun-2020 06:56:20 UTC] PHP Notice:  Undefined index: no_neurological in /home/x94vk0h1ekwj/public_html/amit/firstadvisor/Getquote/Proposal.php on line 610
+[27-Jun-2020 06:56:20 UTC] PHP Notice:  Undefined index: self_neurological in /home/x94vk0h1ekwj/public_html/amit/firstadvisor/Getquote/Proposal.php on line 611
+[27-Jun-2020 06:56:20 UTC] PHP Notice:  Undefined index: no_leukemia in /home/x94vk0h1ekwj/public_html/amit/firstadvisor/Getquote/Proposal.php on line 612
+[27-Jun-2020 06:56:20 UTC] PHP Notice:  Undefined index: self_leukemia in /home/x94vk0h1ekwj/public_html/amit/firstadvisor/Getquote/Proposal.php on line 613
+[27-Jun-2020 06:56:20 UTC] PHP Notice:  Undefined index: no_tumor in /home/x94vk0h1ekwj/public_html/amit/firstadvisor/Getquote/Proposal.php on line 614
+[27-Jun-2020 06:56:20 UTC] PHP Notice:  Undefined index: self_tumor in /home/x94vk0h1ekwj/public_html/amit/firstadvisor/Getquote/Proposal.php on line 615
+[27-Jun-2020 06:56:20 UTC] PHP Notice:  Undefined index: no_thalasemia in /home/x94vk0h1ekwj/public_html/amit/firstadvisor/Getquote/Proposal.php on line 616
+[27-Jun-2020 06:56:20 UTC] PHP Notice:  Undefined index: self_thalasemia in /home/x94vk0h1ekwj/public_html/amit/firstadvisor/Getquote/Proposal.php on line 617
+[27-Jun-2020 06:56:20 UTC] PHP Notice:  Undefined index: no_anotherdisease in /home/x94vk0h1ekwj/public_html/amit/firstadvisor/Getquote/Proposal.php on line 618
+[27-Jun-2020 06:56:20 UTC] PHP Notice:  Undefined index: self_anotherdisease in /home/x94vk0h1ekwj/public_html/amit/firstadvisor/Getquote/Proposal.php on line 619
+[27-Jun-2020 06:56:20 UTC] PHP Notice:  Undefined index: nomineeaddress in /home/x94vk0h1ekwj/public_html/amit/firstadvisor/Getquote/Proposal.php on line 620
+[27-Jun-2020 06:56:20 UTC] PHP Notice:  Undefined index: tms in /home/x94vk0h1ekwj/public_html/amit/firstadvisor/Getquote/Proposal.php on line 626
+[27-Jun-2020 10:24:21 UTC] PHP Notice:  Undefined index: middle in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 576
+[27-Jun-2020 10:24:21 UTC] PHP Notice:  Undefined index: height in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 596
+[27-Jun-2020 10:24:21 UTC] PHP Notice:  Undefined index: weight in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 597
+[27-Jun-2020 10:24:21 UTC] PHP Notice:  Undefined index: occupation in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 598
+[27-Jun-2020 10:24:21 UTC] PHP Notice:  Undefined index: qualification in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 599
+[27-Jun-2020 10:24:21 UTC] PHP Notice:  Undefined index: diseaseno in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 600
+[27-Jun-2020 10:24:21 UTC] PHP Notice:  Undefined index: no-cancer in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 601
+[27-Jun-2020 10:24:21 UTC] PHP Notice:  Undefined index: self-cancer in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 602
+[27-Jun-2020 10:24:21 UTC] PHP Notice:  Undefined index: no_cardiacailments in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 603
+[27-Jun-2020 10:24:21 UTC] PHP Notice:  Undefined index: self_cardiacailments in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 604
+[27-Jun-2020 10:24:21 UTC] PHP Notice:  Undefined index: no_copd in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 605
+[27-Jun-2020 10:24:21 UTC] PHP Notice:  Undefined index: self_copd in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 606
+[27-Jun-2020 10:24:21 UTC] PHP Notice:  Undefined index: no_hiv in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 607
+[27-Jun-2020 10:24:21 UTC] PHP Notice:  Undefined index: self_hiv in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 608
+[27-Jun-2020 10:24:21 UTC] PHP Notice:  Undefined index: no_insulin in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 609
+[27-Jun-2020 10:24:21 UTC] PHP Notice:  Undefined index: self_insulin in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 610
+[27-Jun-2020 10:24:21 UTC] PHP Notice:  Undefined index: no_kidneyailment in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 611
+[27-Jun-2020 10:24:21 UTC] PHP Notice:  Undefined index: height in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 612
+[27-Jun-2020 10:24:21 UTC] PHP Notice:  Undefined index: no_liverdisease in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 613
+[27-Jun-2020 10:24:21 UTC] PHP Notice:  Undefined index: self_liverdisease in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 614
+[27-Jun-2020 10:24:21 UTC] PHP Notice:  Undefined index: no_neurological in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 615
+[27-Jun-2020 10:24:21 UTC] PHP Notice:  Undefined index: self_neurological in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 616
+[27-Jun-2020 10:24:21 UTC] PHP Notice:  Undefined index: no_leukemia in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 617
+[27-Jun-2020 10:24:21 UTC] PHP Notice:  Undefined index: self_leukemia in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 618
+[27-Jun-2020 10:24:21 UTC] PHP Notice:  Undefined index: no_tumor in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 619
+[27-Jun-2020 10:24:21 UTC] PHP Notice:  Undefined index: self_tumor in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 620
+[27-Jun-2020 10:24:21 UTC] PHP Notice:  Undefined index: no_thalasemia in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 621
+[27-Jun-2020 10:24:21 UTC] PHP Notice:  Undefined index: self_thalasemia in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 622
+[27-Jun-2020 10:24:21 UTC] PHP Notice:  Undefined index: no_anotherdisease in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 623
+[27-Jun-2020 10:24:21 UTC] PHP Notice:  Undefined index: self_anotherdisease in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 624
+[27-Jun-2020 10:24:21 UTC] PHP Notice:  Undefined index: nomineeaddress in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 625
+[27-Jun-2020 10:24:21 UTC] PHP Notice:  Undefined index: tms in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 631
+[27-Jun-2020 10:24:21 UTC] PHP Notice:  Undefined variable: ch in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 824
+[27-Jun-2020 10:24:21 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 824
+[27-Jun-2020 10:24:21 UTC] PHP Notice:  Undefined variable: ch in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 827
+[27-Jun-2020 10:24:21 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 827
+[27-Jun-2020 10:24:21 UTC] PHP Notice:  Undefined variable: ch in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 830
+[27-Jun-2020 10:24:21 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 830
+[27-Jun-2020 10:24:21 UTC] PHP Notice:  Undefined variable: ch in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 833
+[27-Jun-2020 10:24:21 UTC] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 833
+[27-Jun-2020 10:24:21 UTC] PHP Notice:  Undefined variable: ch in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 836
+[27-Jun-2020 10:24:21 UTC] PHP Warning:  curl_getinfo() expects parameter 1 to be resource, null given in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 836
+[27-Jun-2020 10:24:21 UTC] PHP Notice:  Undefined variable: ch in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 844
+[27-Jun-2020 10:24:21 UTC] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 844
+[27-Jun-2020 10:27:48 UTC] PHP Notice:  Undefined variable: ch in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 824
+[27-Jun-2020 10:27:48 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 824
+[27-Jun-2020 10:27:48 UTC] PHP Notice:  Undefined variable: ch in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 827
+[27-Jun-2020 10:27:48 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 827
+[27-Jun-2020 10:27:48 UTC] PHP Notice:  Undefined variable: ch in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 830
+[27-Jun-2020 10:27:48 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 830
+[27-Jun-2020 10:27:48 UTC] PHP Notice:  Undefined variable: ch in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 833
+[27-Jun-2020 10:27:48 UTC] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 833
+[27-Jun-2020 10:27:48 UTC] PHP Notice:  Undefined variable: ch in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 836
+[27-Jun-2020 10:27:48 UTC] PHP Warning:  curl_getinfo() expects parameter 1 to be resource, null given in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 836
+[27-Jun-2020 10:27:48 UTC] PHP Notice:  Undefined variable: ch in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 844
+[27-Jun-2020 10:27:48 UTC] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 844
+[27-Jun-2020 10:30:44 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 635
+[27-Jun-2020 10:30:47 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 635
+[27-Jun-2020 10:31:38 UTC] PHP Notice:  Undefined variable: ch in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 824
+[27-Jun-2020 10:31:38 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 824
+[27-Jun-2020 10:31:38 UTC] PHP Notice:  Undefined variable: ch in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 827
+[27-Jun-2020 10:31:38 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 827
+[27-Jun-2020 10:31:38 UTC] PHP Notice:  Undefined variable: ch in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 830
+[27-Jun-2020 10:31:38 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 830
+[27-Jun-2020 10:31:38 UTC] PHP Notice:  Undefined variable: ch in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 833
+[27-Jun-2020 10:31:38 UTC] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 833
+[27-Jun-2020 10:31:38 UTC] PHP Notice:  Undefined variable: ch in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 836
+[27-Jun-2020 10:31:38 UTC] PHP Warning:  curl_getinfo() expects parameter 1 to be resource, null given in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 836
+[27-Jun-2020 10:31:38 UTC] PHP Notice:  Undefined variable: ch in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 844
+[27-Jun-2020 10:31:38 UTC] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 844
+[27-Jun-2020 10:33:55 UTC] PHP Notice:  Undefined index: middle in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 635
+[27-Jun-2020 10:33:55 UTC] PHP Notice:  Undefined index: height in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 655
+[27-Jun-2020 10:33:55 UTC] PHP Notice:  Undefined index: weight in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 656
+[27-Jun-2020 10:33:56 UTC] PHP Notice:  Undefined index: occupation in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 657
+[27-Jun-2020 10:33:56 UTC] PHP Notice:  Undefined index: qualification in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 658
+[27-Jun-2020 10:33:56 UTC] PHP Notice:  Undefined index: diseaseno in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 659
+[27-Jun-2020 10:33:56 UTC] PHP Notice:  Undefined index: no-cancer in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 660
+[27-Jun-2020 10:33:56 UTC] PHP Notice:  Undefined index: self-cancer in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 661
+[27-Jun-2020 10:33:56 UTC] PHP Notice:  Undefined index: no_cardiacailments in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 662
+[27-Jun-2020 10:33:56 UTC] PHP Notice:  Undefined index: self_cardiacailments in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 663
+[27-Jun-2020 10:33:56 UTC] PHP Notice:  Undefined index: no_copd in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 664
+[27-Jun-2020 10:33:56 UTC] PHP Notice:  Undefined index: self_copd in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 665
+[27-Jun-2020 10:33:56 UTC] PHP Notice:  Undefined index: no_hiv in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 666
+[27-Jun-2020 10:33:56 UTC] PHP Notice:  Undefined index: self_hiv in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 667
+[27-Jun-2020 10:33:56 UTC] PHP Notice:  Undefined index: no_insulin in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 668
+[27-Jun-2020 10:33:56 UTC] PHP Notice:  Undefined index: self_insulin in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 669
+[27-Jun-2020 10:33:56 UTC] PHP Notice:  Undefined index: no_kidneyailment in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 670
+[27-Jun-2020 10:33:56 UTC] PHP Notice:  Undefined index: height in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 671
+[27-Jun-2020 10:33:56 UTC] PHP Notice:  Undefined index: no_liverdisease in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 672
+[27-Jun-2020 10:33:56 UTC] PHP Notice:  Undefined index: self_liverdisease in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 673
+[27-Jun-2020 10:33:56 UTC] PHP Notice:  Undefined index: no_neurological in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 674
+[27-Jun-2020 10:33:56 UTC] PHP Notice:  Undefined index: self_neurological in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 675
+[27-Jun-2020 10:33:56 UTC] PHP Notice:  Undefined index: no_leukemia in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 676
+[27-Jun-2020 10:33:56 UTC] PHP Notice:  Undefined index: self_leukemia in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 677
+[27-Jun-2020 10:33:56 UTC] PHP Notice:  Undefined index: no_tumor in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 678
+[27-Jun-2020 10:33:56 UTC] PHP Notice:  Undefined index: self_tumor in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 679
+[27-Jun-2020 10:33:56 UTC] PHP Notice:  Undefined index: no_thalasemia in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 680
+[27-Jun-2020 10:33:56 UTC] PHP Notice:  Undefined index: self_thalasemia in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 681
+[27-Jun-2020 10:33:56 UTC] PHP Notice:  Undefined index: no_anotherdisease in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 682
+[27-Jun-2020 10:33:56 UTC] PHP Notice:  Undefined index: self_anotherdisease in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 683
+[27-Jun-2020 10:33:56 UTC] PHP Notice:  Undefined index: nomineeaddress in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 684
+[27-Jun-2020 10:33:56 UTC] PHP Notice:  Undefined index: tms in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 690
+[27-Jun-2020 10:33:56 UTC] PHP Notice:  Undefined variable: ch in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 883
+[27-Jun-2020 10:33:56 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 883
+[27-Jun-2020 10:33:56 UTC] PHP Notice:  Undefined variable: ch in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 886
+[27-Jun-2020 10:33:56 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 886
+[27-Jun-2020 10:33:56 UTC] PHP Notice:  Undefined variable: ch in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 889
+[27-Jun-2020 10:33:56 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 889
+[27-Jun-2020 10:33:56 UTC] PHP Notice:  Undefined variable: ch in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 892
+[27-Jun-2020 10:33:56 UTC] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 892
+[27-Jun-2020 10:33:56 UTC] PHP Notice:  Undefined variable: ch in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 895
+[27-Jun-2020 10:33:56 UTC] PHP Warning:  curl_getinfo() expects parameter 1 to be resource, null given in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 895
+[27-Jun-2020 10:33:56 UTC] PHP Notice:  Undefined variable: ch in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 903
+[27-Jun-2020 10:33:56 UTC] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 903
+[27-Jun-2020 10:33:58 UTC] PHP Notice:  Undefined index: middle in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 635
+[27-Jun-2020 10:33:58 UTC] PHP Notice:  Undefined index: height in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 655
+[27-Jun-2020 10:33:58 UTC] PHP Notice:  Undefined index: weight in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 656
+[27-Jun-2020 10:33:58 UTC] PHP Notice:  Undefined index: occupation in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 657
+[27-Jun-2020 10:33:58 UTC] PHP Notice:  Undefined index: qualification in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 658
+[27-Jun-2020 10:33:58 UTC] PHP Notice:  Undefined index: diseaseno in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 659
+[27-Jun-2020 10:33:58 UTC] PHP Notice:  Undefined index: no-cancer in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 660
+[27-Jun-2020 10:33:58 UTC] PHP Notice:  Undefined index: self-cancer in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 661
+[27-Jun-2020 10:33:58 UTC] PHP Notice:  Undefined index: no_cardiacailments in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 662
+[27-Jun-2020 10:33:58 UTC] PHP Notice:  Undefined index: self_cardiacailments in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 663
+[27-Jun-2020 10:33:58 UTC] PHP Notice:  Undefined index: no_copd in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 664
+[27-Jun-2020 10:33:58 UTC] PHP Notice:  Undefined index: self_copd in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 665
+[27-Jun-2020 10:33:58 UTC] PHP Notice:  Undefined index: no_hiv in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 666
+[27-Jun-2020 10:33:58 UTC] PHP Notice:  Undefined index: self_hiv in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 667
+[27-Jun-2020 10:33:58 UTC] PHP Notice:  Undefined index: no_insulin in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 668
+[27-Jun-2020 10:33:58 UTC] PHP Notice:  Undefined index: self_insulin in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 669
+[27-Jun-2020 10:33:58 UTC] PHP Notice:  Undefined index: no_kidneyailment in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 670
+[27-Jun-2020 10:33:58 UTC] PHP Notice:  Undefined index: height in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 671
+[27-Jun-2020 10:33:58 UTC] PHP Notice:  Undefined index: no_liverdisease in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 672
+[27-Jun-2020 10:33:58 UTC] PHP Notice:  Undefined index: self_liverdisease in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 673
+[27-Jun-2020 10:33:58 UTC] PHP Notice:  Undefined index: no_neurological in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 674
+[27-Jun-2020 10:33:58 UTC] PHP Notice:  Undefined index: self_neurological in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 675
+[27-Jun-2020 10:33:58 UTC] PHP Notice:  Undefined index: no_leukemia in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 676
+[27-Jun-2020 10:33:58 UTC] PHP Notice:  Undefined index: self_leukemia in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 677
+[27-Jun-2020 10:33:58 UTC] PHP Notice:  Undefined index: no_tumor in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 678
+[27-Jun-2020 10:33:58 UTC] PHP Notice:  Undefined index: self_tumor in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 679
+[27-Jun-2020 10:33:58 UTC] PHP Notice:  Undefined index: no_thalasemia in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 680
+[27-Jun-2020 10:33:58 UTC] PHP Notice:  Undefined index: self_thalasemia in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 681
+[27-Jun-2020 10:33:58 UTC] PHP Notice:  Undefined index: no_anotherdisease in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 682
+[27-Jun-2020 10:33:58 UTC] PHP Notice:  Undefined index: self_anotherdisease in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 683
+[27-Jun-2020 10:33:58 UTC] PHP Notice:  Undefined index: nomineeaddress in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 684
+[27-Jun-2020 10:33:58 UTC] PHP Notice:  Undefined index: tms in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 690
+[27-Jun-2020 10:33:58 UTC] PHP Notice:  Undefined variable: ch in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 883
+[27-Jun-2020 10:33:58 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 883
+[27-Jun-2020 10:33:58 UTC] PHP Notice:  Undefined variable: ch in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 886
+[27-Jun-2020 10:33:58 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 886
+[27-Jun-2020 10:33:58 UTC] PHP Notice:  Undefined variable: ch in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 889
+[27-Jun-2020 10:33:58 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 889
+[27-Jun-2020 10:33:58 UTC] PHP Notice:  Undefined variable: ch in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 892
+[27-Jun-2020 10:33:58 UTC] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 892
+[27-Jun-2020 10:33:58 UTC] PHP Notice:  Undefined variable: ch in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 895
+[27-Jun-2020 10:33:58 UTC] PHP Warning:  curl_getinfo() expects parameter 1 to be resource, null given in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 895
+[27-Jun-2020 10:33:58 UTC] PHP Notice:  Undefined variable: ch in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 903
+[27-Jun-2020 10:33:58 UTC] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 903
+[27-Jun-2020 10:34:02 UTC] PHP Notice:  Undefined index: middle in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 635
+[27-Jun-2020 10:34:02 UTC] PHP Notice:  Undefined index: height in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 655
+[27-Jun-2020 10:34:02 UTC] PHP Notice:  Undefined index: weight in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 656
+[27-Jun-2020 10:34:02 UTC] PHP Notice:  Undefined index: occupation in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 657
+[27-Jun-2020 10:34:02 UTC] PHP Notice:  Undefined index: qualification in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 658
+[27-Jun-2020 10:34:02 UTC] PHP Notice:  Undefined index: diseaseno in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 659
+[27-Jun-2020 10:34:02 UTC] PHP Notice:  Undefined index: no-cancer in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 660
+[27-Jun-2020 10:34:02 UTC] PHP Notice:  Undefined index: self-cancer in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 661
+[27-Jun-2020 10:34:02 UTC] PHP Notice:  Undefined index: no_cardiacailments in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 662
+[27-Jun-2020 10:34:02 UTC] PHP Notice:  Undefined index: self_cardiacailments in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 663
+[27-Jun-2020 10:34:02 UTC] PHP Notice:  Undefined index: no_copd in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 664
+[27-Jun-2020 10:34:02 UTC] PHP Notice:  Undefined index: self_copd in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 665
+[27-Jun-2020 10:34:02 UTC] PHP Notice:  Undefined index: no_hiv in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 666
+[27-Jun-2020 10:34:02 UTC] PHP Notice:  Undefined index: self_hiv in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 667
+[27-Jun-2020 10:34:02 UTC] PHP Notice:  Undefined index: no_insulin in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 668
+[27-Jun-2020 10:34:02 UTC] PHP Notice:  Undefined index: self_insulin in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 669
+[27-Jun-2020 10:34:02 UTC] PHP Notice:  Undefined index: no_kidneyailment in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 670
+[27-Jun-2020 10:34:02 UTC] PHP Notice:  Undefined index: height in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 671
+[27-Jun-2020 10:34:02 UTC] PHP Notice:  Undefined index: no_liverdisease in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 672
+[27-Jun-2020 10:34:02 UTC] PHP Notice:  Undefined index: self_liverdisease in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 673
+[27-Jun-2020 10:34:02 UTC] PHP Notice:  Undefined index: no_neurological in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 674
+[27-Jun-2020 10:34:03 UTC] PHP Notice:  Undefined index: self_neurological in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 675
+[27-Jun-2020 10:34:03 UTC] PHP Notice:  Undefined index: no_leukemia in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 676
+[27-Jun-2020 10:34:03 UTC] PHP Notice:  Undefined index: self_leukemia in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 677
+[27-Jun-2020 10:34:03 UTC] PHP Notice:  Undefined index: no_tumor in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 678
+[27-Jun-2020 10:34:03 UTC] PHP Notice:  Undefined index: self_tumor in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 679
+[27-Jun-2020 10:34:03 UTC] PHP Notice:  Undefined index: no_thalasemia in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 680
+[27-Jun-2020 10:34:03 UTC] PHP Notice:  Undefined index: self_thalasemia in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 681
+[27-Jun-2020 10:34:03 UTC] PHP Notice:  Undefined index: no_anotherdisease in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 682
+[27-Jun-2020 10:34:03 UTC] PHP Notice:  Undefined index: self_anotherdisease in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 683
+[27-Jun-2020 10:34:03 UTC] PHP Notice:  Undefined index: nomineeaddress in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 684
+[27-Jun-2020 10:34:03 UTC] PHP Notice:  Undefined index: tms in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 690
+[27-Jun-2020 10:34:03 UTC] PHP Notice:  Undefined variable: ch in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 883
+[27-Jun-2020 10:34:03 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 883
+[27-Jun-2020 10:34:03 UTC] PHP Notice:  Undefined variable: ch in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 886
+[27-Jun-2020 10:34:03 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 886
+[27-Jun-2020 10:34:03 UTC] PHP Notice:  Undefined variable: ch in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 889
+[27-Jun-2020 10:34:03 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 889
+[27-Jun-2020 10:34:03 UTC] PHP Notice:  Undefined variable: ch in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 892
+[27-Jun-2020 10:34:03 UTC] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 892
+[27-Jun-2020 10:34:03 UTC] PHP Notice:  Undefined variable: ch in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 895
+[27-Jun-2020 10:34:03 UTC] PHP Warning:  curl_getinfo() expects parameter 1 to be resource, null given in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 895
+[27-Jun-2020 10:34:03 UTC] PHP Notice:  Undefined variable: ch in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 903
+[27-Jun-2020 10:34:03 UTC] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal.php on line 903
+[29-Jun-2020 13:06:02 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/x94vk0h1ekwj/public_html/arup/getquote/coon.php on line 6
+[29-Jun-2020 13:06:02 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/x94vk0h1ekwj/public_html/arup/getquote/coon.php on line 6
+[29-Jun-2020 13:06:02 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/x94vk0h1ekwj/public_html/arup/getquote/coon.php on line 7
+[29-Jun-2020 13:06:02 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/x94vk0h1ekwj/public_html/arup/getquote/coon.php on line 15
+[29-Jun-2020 13:06:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/x94vk0h1ekwj/public_html/arup/getquote/coon.php on line 6
+[29-Jun-2020 13:06:42 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/x94vk0h1ekwj/public_html/arup/getquote/coon.php on line 6
+[29-Jun-2020 13:06:42 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/x94vk0h1ekwj/public_html/arup/getquote/coon.php on line 7
+[29-Jun-2020 13:06:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/x94vk0h1ekwj/public_html/arup/getquote/coon.php on line 15
+[29-Jun-2020 13:08:50 UTC] PHP Notice:  Trying to get property of non-object in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 1233
+[29-Jun-2020 13:08:50 UTC] PHP Notice:  Trying to get property of non-object in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 1235
+[29-Jun-2020 13:10:19 UTC] PHP Notice:  Trying to get property of non-object in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 1233
+[29-Jun-2020 13:10:19 UTC] PHP Notice:  Trying to get property of non-object in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 1235
+[29-Jun-2020 13:13:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/x94vk0h1ekwj/public_html/arup/getquote/coon.php on line 6
+[29-Jun-2020 13:13:31 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/x94vk0h1ekwj/public_html/arup/getquote/coon.php on line 6
+[29-Jun-2020 13:13:31 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/x94vk0h1ekwj/public_html/arup/getquote/coon.php on line 7
+[29-Jun-2020 13:13:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/x94vk0h1ekwj/public_html/arup/getquote/coon.php on line 15
+[29-Jun-2020 13:16:03 UTC] PHP Notice:  Trying to get property of non-object in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 1233
+[29-Jun-2020 13:16:03 UTC] PHP Notice:  Trying to get property of non-object in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 1235
+[29-Jun-2020 13:27:22 UTC] PHP Notice:  Trying to get property of non-object in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 1233
+[29-Jun-2020 13:27:22 UTC] PHP Notice:  Trying to get property of non-object in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 1235
+[29-Jun-2020 13:29:40 UTC] PHP Notice:  Trying to get property of non-object in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 1233
+[29-Jun-2020 13:29:40 UTC] PHP Notice:  Trying to get property of non-object in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 1235
+[29-Jun-2020 13:31:50 UTC] PHP Notice:  Trying to get property of non-object in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 1233
+[29-Jun-2020 13:31:50 UTC] PHP Notice:  Trying to get property of non-object in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 1235
+[29-Jun-2020 13:33:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/x94vk0h1ekwj/public_html/arup/getquote/coon.php on line 6
+[29-Jun-2020 13:33:04 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/x94vk0h1ekwj/public_html/arup/getquote/coon.php on line 6
+[29-Jun-2020 13:33:04 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/x94vk0h1ekwj/public_html/arup/getquote/coon.php on line 7
+[29-Jun-2020 13:33:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/x94vk0h1ekwj/public_html/arup/getquote/coon.php on line 15
+[29-Jun-2020 13:38:42 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 1203
+[30-Jun-2020 07:20:54 UTC] PHP Notice:  Undefined index: suminsurance in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 18
+[30-Jun-2020 07:20:54 UTC] PHP Notice:  Undefined index: name in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 66
+[30-Jun-2020 07:20:54 UTC] PHP Notice:  Undefined index: lastname in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 71
+[30-Jun-2020 07:20:55 UTC] PHP Notice:  Undefined index: gender in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 77
+[30-Jun-2020 07:20:55 UTC] PHP Notice:  Undefined index: gender in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 77
+[30-Jun-2020 07:20:55 UTC] PHP Notice:  Undefined index: mob in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 110
+[30-Jun-2020 07:22:04 UTC] PHP Notice:  Undefined index: suminsurance in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 18
+[30-Jun-2020 07:22:04 UTC] PHP Notice:  Undefined index: name in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 66
+[30-Jun-2020 07:22:04 UTC] PHP Notice:  Undefined index: lastname in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 71
+[30-Jun-2020 07:22:04 UTC] PHP Notice:  Undefined index: mob in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 110
+[30-Jun-2020 07:22:04 UTC] PHP Notice:  Undefined index: adult in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 1006
+[30-Jun-2020 07:22:04 UTC] PHP Notice:  Undefined index: child in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 1007
+[30-Jun-2020 07:22:04 UTC] PHP Notice:  Undefined index: age in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 1008
+[30-Jun-2020 07:22:04 UTC] PHP Notice:  Undefined index: suminsurance in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 1009
+[30-Jun-2020 07:22:04 UTC] PHP Notice:  Undefined index: mob in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 1010
+[30-Jun-2020 07:24:23 UTC] PHP Notice:  Undefined index: suminsurance in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 18
+[30-Jun-2020 07:24:23 UTC] PHP Notice:  Undefined index: name in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 66
+[30-Jun-2020 07:24:23 UTC] PHP Notice:  Undefined index: lastname in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 71
+[30-Jun-2020 07:24:23 UTC] PHP Notice:  Undefined index: mob in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 110
+[30-Jun-2020 07:24:23 UTC] PHP Notice:  Undefined index: adult in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 1006
+[30-Jun-2020 07:24:23 UTC] PHP Notice:  Undefined index: child in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 1007
+[30-Jun-2020 07:24:23 UTC] PHP Notice:  Undefined index: age in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 1008
+[30-Jun-2020 07:24:23 UTC] PHP Notice:  Undefined index: suminsurance in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 1009
+[30-Jun-2020 07:24:24 UTC] PHP Notice:  Undefined index: mob in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 1010
+[30-Jun-2020 07:26:43 UTC] PHP Notice:  Undefined index: suminsurance in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 18
+[30-Jun-2020 07:26:43 UTC] PHP Notice:  Undefined index: name in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 66
+[30-Jun-2020 07:26:43 UTC] PHP Notice:  Undefined index: lastname in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 71
+[30-Jun-2020 07:26:43 UTC] PHP Notice:  Undefined index: mob in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 110
+[30-Jun-2020 07:26:43 UTC] PHP Notice:  Undefined index: adult in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 1006
+[30-Jun-2020 07:26:43 UTC] PHP Notice:  Undefined index: child in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 1007
+[30-Jun-2020 07:26:43 UTC] PHP Notice:  Undefined index: age in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 1008
+[30-Jun-2020 07:26:43 UTC] PHP Notice:  Undefined index: suminsurance in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 1009
+[30-Jun-2020 07:26:44 UTC] PHP Notice:  Undefined index: mob in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 1010
+[30-Jun-2020 07:29:54 UTC] PHP Notice:  Undefined index: suminsurance in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 18
+[30-Jun-2020 07:29:54 UTC] PHP Notice:  Undefined index: name in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 66
+[30-Jun-2020 07:29:54 UTC] PHP Notice:  Undefined index: lastname in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 71
+[30-Jun-2020 07:29:54 UTC] PHP Notice:  Undefined index: mob in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 110
+[30-Jun-2020 07:29:54 UTC] PHP Notice:  Undefined index: adult in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 1006
+[30-Jun-2020 07:29:54 UTC] PHP Notice:  Undefined index: child in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 1007
+[30-Jun-2020 07:29:54 UTC] PHP Notice:  Undefined index: age in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 1008
+[30-Jun-2020 07:29:54 UTC] PHP Notice:  Undefined index: suminsurance in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 1009
+[30-Jun-2020 07:29:54 UTC] PHP Notice:  Undefined index: mob in /home/x94vk0h1ekwj/public_html/arup/getquote/proposal2.php on line 1010

@@ -1,0 +1,208 @@
+body{
+	padding:0px;
+	margin:0px;
+	font-family:Roboto;
+}
+a{
+	text-decoration:none;
+}
+p{
+	font-size:15px;
+}
+.upper-menu{
+	background:#0452a7;
+	border-bottom:4px solid #c70100;
+	
+}
+.support-lnk{
+	color:#ffffff;
+	
+}
+.support-lnk:hover{
+	color:#f1f1f1;
+}
+.main-menu{
+	background:#f4f4f4;
+	
+}
+.navbar-brand img{
+	max-width:150px;
+}
+.nav-link{
+	color:;
+	margin-left:10px;
+}
+.active{
+	color:#ff0012;
+}
+.nav-link:hover{
+	color:#ff0012;
+}
+.banner{
+	background:url('../images/hero_bg_3.jpg');
+	background-repeat:no-repeat;
+	width:100%;
+	background-size:100% , 100%;
+	height:auto;
+	
+}
+.tab-box{
+	background:rgba(255,255,255,0.4);
+	border-radius:5px;
+	border:4px solid #0083fc;
+}
+.nav-tabs{
+	border-bottom:none;
+
+}
+.tab-menu{
+	border-bottom:2px solid #ff0012;
+}
+.nav-tabs .nav-link{
+	color:#000000;
+}
+.nav-tabs .nav-link:hover{
+	background:red !important;
+	color:#ffffff  !important;
+}
+.nav-tabs .active{
+	background:red !important;
+	color:#ffffff  !important;
+}
+.control-label{
+	color:#0036ab;
+	font-weight:bold;
+}
+.form-control{
+	background:transparent;
+	border:2px solid #000000;
+}
+.form-control:focus + .form-control-placeholder,
+.form-control:valid + .form-control-placeholder {
+  font-size: 75%;
+  transform: translate3d(0, -100%, 0);
+  opacity: 1;
+}
+.form-control:active,
+.form-control:focus,
+.form-control:focus:active {
+  background-color: transparent!important;
+  border:2px solid #000000;
+}
+.form-check-label{
+	font-weight:bold;
+	color:#0036ab;
+}
+.btn-quote{
+	width:200px;
+	border:none;
+	outline:none;
+	text-decoration:none;
+	padding:5px;
+	 background-image: linear-gradient(#139ffe, #0153d1);
+	 color:#ffffff;
+	 font-size:18px;
+	 font-weight:bold;
+}
+.tab-box h4{
+	color:#0081c2;
+	font-weight:bold;
+}
+.hurry-box h2{
+	color:#008bfb;
+	font-weight:bold;
+}
+.hurry-box p{
+	color:#ff0012;
+	font-size:18px;
+	font-weight:bold;
+}
+.section-padding{
+	margin-top:60px;
+}
+.text-insurance h4{
+
+	color:#0043bf;
+}
+.text-insurance p{
+	color:#777;
+}
+.text-insurance span{
+	color:#0043bf;
+	cursor:pointer;
+	font-weight:bold;
+}
+.partners{
+	background:#0452a7;
+}
+.partner-box h4{
+	font-weight:bold;
+	color:#0043bf;
+}
+.p-img{
+	margin:4px;
+}
+.payment-img img{
+	
+}
+footer{
+background:#0452a7;
+}
+.footer-header h4{
+	color:#ffffff;
+}
+.footer-content p{
+	color:#ffffff;
+}
+.footer-header p{
+	color:#ffffff;
+	font-size:14px;
+}
+
+@media only screen and (max-width: 900px) {
+  .upper-menu{
+	background:#0452a7;
+	border-bottom:4px solid #c70100;
+	
+	
+}
+
+.colmt {
+	margin-top:20px;
+}
+.p-img img{
+	width:80px;
+}
+}
+@media only screen and (max-width: 900px){
+	.plan-txt h5{
+		display:none;
+	}
+}
+
+.plan-box{
+	border-radius:5px;
+	border:1px solid #000000;
+}
+.cpmpany-logo img{
+	max-width:80px;
+}
+.company-name li{
+	font-size:14px;
+	list-style-type:none;
+}
+.company-sum span{
+	font-size:14px;
+}
+.company-sum h4{
+	font-size:18px;
+}
+.company-details{
+	border-bottom:1px solid #f1f1f1;
+}
+.features-area{
+	
+}
+.card-header{
+	cursor:pointer
+}

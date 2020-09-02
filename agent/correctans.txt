@@ -1,0 +1,66 @@
+Correct Ans
+
+
+FORM NAME      CORRECT ANS
+
+q1		3.Insurance 
+q2		2.Loss prevention 
+q3		4.enjoy peace of mind and plan one’s business more effectively 
+q4		2.Lloyds 
+q5		4.One decides to bear the risk and its effects 
+q6		4.Insurance pays when there is loss of asset 
+q7		1.Insurance is a method of sharing the losses of a ‘few’ by ‘many’ 
+q8		1.To assess the risk for rating purposes 
+q9		2.Sharing the losses of few by many 
+q10		2.Insurance 
+
+
+q11		1.Cleverness 
+q12		1.Motor third party liability 
+q13		2.Deductible 
+q14		1.IGMS 
+q15		4.Complaint against insurance companies, brand and shopkeepers 
+q16		2.District Forum 
+q17		4.By being on time, showing interest and being confident 
+q18		3.Ethical behaviour helps in developing trust between the agent and theinsurer 
+q19		4.Paying attention to the speaker, giving an occasional nod and smile and providing feedback
+q20		3.Integrated Grievance Management System 
+
+
+q21		2.State Commission
+q22		2.Shopkeeper not advising the customer on the best product in a category
+q23		3.Insurance Ombudsman
+q24		4.Insurance Ombudsman operates only within the specified territorial limits
+q25		1.The complaint is to be made in writing 
+q26		3.Within one year of rejection of the complaint by the insurer
+q27		3.Complainant has to approach a consumer forum prior to the Ombudsman 
+q28		2.No fee or charges need to be paid  
+q29		2.Yes, complaint can be launched against private insurers  
+q30		2.Consideration 
+
+
+q31		1.Misrepresentation 
+q32		3.Coercion 
+q33		3.They are contracts between two parties (insurer and insured) as perrequirements of Indian Contract Act, 1872 
+q34		3.Bribe 
+q35		2.Minor 
+q36		3.Disclosing known material facts on an insurance proposal form 
+q37		3.Friends taking out insurance on one another 
+q38		1.At the time of taking out insurance
+q39		3.Falling off a horse 
+q40		4.Subsidy 
+
+
+q41		3.Prof. Hubener
+q42		1.Term insurance plan    
+q43		3.Air 
+q44		3.Natural wear and tear 
+q45		3.Human Life Value   
+q46		3.Mortality is related to age 
+q47		3.Lower yields
+q48		4.Secure investment 
+q49		1.Higher, Higher
+q50		3.Remain constant   
+ 
+
+

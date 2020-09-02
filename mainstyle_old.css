@@ -1,0 +1,129 @@
+
+body p{
+	color: #000000;
+}
+.icon-map-pin{
+  color:#00529C; 
+  font-size: 40px;
+}
+.location-box{
+	background-image: url(images/map.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+
+}
+.location-box p{
+	color: #000000;
+}
+.counter-banner{
+	background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url('images/banner1.jpg');
+	width: 100%;
+	background-repeat: no-repeat;
+     padding-top: 100px;
+     padding-bottom: 100px;
+}
+.counter-area{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.counter-box{
+	margin-top: 20px;
+}
+
+.counter-box h2{
+  color: #87CEEB;
+  font-size: 50px;
+}
+.counter-box h4{
+  color: #87CEEB;
+  font-size: 25px;
+}
+.counter-box h1{
+  color: #87CEEB;
+  font-size: 50px;
+}
+.insurance-box{
+	background-color: #ffffff;
+	width:180px;
+	padding-top: 5px;
+	padding-bottom: 0px;
+	-webkit-transition:.5s;
+  -o-transition: .5s;
+  transition: .5s;
+  -webkit-box-shadow: -1px -1px 22px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px -1px 22px 0px rgba(0,0,0,0.75);
+box-shadow: -1px -1px 22px 0px rgba(0,0,0,0.75); 
+
+}
+.insurance-box p{
+	font-size: 15px;
+	margin-top: 8px;
+	color: #000000;
+	font-weight: bold;
+}
+.insurance-box img{
+	width: 30%;
+	margin: auto;
+}
+.insurance-box:hover{
+   box-shadow: none;
+
+}
+.log-background:{
+	background-image: linear-gradient(to right, red , yellow) !important;
+}
+
+@media only screen and (max-width: 600px) {
+  .insurance-box {
+    width: 160px;
+  }
+}
+.link{
+	background: none !important;
+    font-size: 15px; 
+    padding: 10px;
+    font-weight: bold;
+
+}
+
+@media only screen and (max-width: 600px) {
+  .link{
+	background: none !important;
+    font-size: 15px; 
+    padding: 8px;
+    font-weight: bold;
+
+}
+}
+
+.active{
+	border-bottom: 1px solid #ffffff !important;
+}
+.tab-pane{
+	border-bottom: none !important;
+}
+.log-background{
+	border-radius: 20px;
+}
+.btn-danger{
+	background-color: #00529C !important;
+}
+.list-unstyled li a{
+  color: #00529C;
+}
+.footer-heading p{
+	color: #00529C;
+}
+.caption{
+	color: #000000 !important;
+}
+
+.partner-img{
+  width: 150px;
+  background-color: #ffffff;
+  padding: 4px;
+  margin-top:8px;
+}

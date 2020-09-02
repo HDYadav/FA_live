@@ -1,0 +1,200 @@
+{
+  "responseData": {
+    "status": "1",
+    "message": "Success"
+  },
+  "intPolicyDataIO": {
+    "policy": {
+      "partyDOList": [
+        {
+          "guid": "1513063896827-713997405808",
+          "firstName": "Test",
+          "lastName": "Spouse",
+          "roleCd": "PRIMARY",
+          "birthDt": "10/10/1970",
+          "genderCd": "FEMALE",
+          "titleCd": "MS",
+          "relationCd": "SPSE",
+          "partyQuestionDOList": [
+            {
+              "questionSetCd": "yesNoExist",
+              "questionCd": "pedYesNo",
+              "response": "YES"
+            },
+            {
+              "questionSetCd": "PEDcancerDetails",
+              "questionCd": "114",
+              "response": "YES"
+            },
+            {
+              "questionSetCd": "PEDcancerDetails",
+              "questionCd": "cancerExistingSince",
+              "response": "01/2017"
+            },
+            {
+              "questionSetCd": "PEDRespiratoryDetails",
+              "questionCd": "250",
+              "response": "YES"
+            },
+            {
+              "questionSetCd": "PEDRespiratoryDetails",
+              "questionCd": "respiratoryExistingSince",
+              "response": "10/2017"
+            },
+            {
+              "questionSetCd": "HEDHealthClaim",
+              "questionCd": "H002",
+              "response": "YES"
+            },
+            {
+              "questionSetCd": "HEDHealthDeclined",
+              "questionCd": "H003",
+              "response": "YES"
+            },
+            {
+              "questionSetCd": "HEDHealthCovered",
+              "questionCd": "H004",
+              "response": "YES"
+            },
+            {
+              "questionSetCd": "HEDCareleafPA",
+              "questionCd": "P010",
+              "response": "NO"
+            }
+          ],
+          "partyIdentityDOList": [
+            {
+              "identityTypeCd": "PAN",
+              "identityNum": "ASHIS3737H"
+            }
+          ],
+          "partyAddressDOList": [
+            {
+              "addressTypeCd": "PERMANENT",
+              "addressLine1Lang1": "Vaishali",
+              "addressLine2Lang1": "Mahagun",
+              "stateCd": "UTTAR PRADESH",
+              "cityCd": "Ghaziabad",
+              "pinCode": "201010",
+              "areaCd": "Ghaziabad",
+              "countryCd": "IND"
+            },
+            {
+              "addressTypeCd": "COMMUNICATION",
+              "addressLine1Lang1": "Vaishali",
+              "addressLine2Lang1": "Mahagun",
+              "stateCd": "UTTAR PRADESH",
+              "cityCd": "Ghaziabad",
+              "pinCode": "201010",
+              "areaCd": "Ghaziabad",
+              "countryCd": "IND"
+            }
+          ],
+          "partyContactDOList": [
+            {
+              "contactTypeCd": "MOBILE",
+              "contactNum": 9888883838,
+              "stdCode": "+91"
+            }
+          ],
+          "partyEmailDOList": [
+            {
+              "emailTypeCd": "PERSONAL",
+              "emailAddress": "ashi@monocept.com"
+            }
+          ]
+        },
+        {
+          "guid": "1513063896827-790948913709",
+          "firstName": "Ashish",
+          "lastName": "Singh",
+          "roleCd": "PROPOSER",
+          "birthDt": "01/01/1975",
+          "genderCd": "MALE",
+          "titleCd": "MR",
+          "relationCd": "SELF",
+          "partyQuestionDOList": [
+            {
+              
+            }
+          ],
+          "partyIdentityDOList": [
+            {
+              "identityTypeCd": "PAN",
+              "identityNum": "ASHIS3737H"
+            }
+          ],
+          "partyAddressDOList": [
+            {
+              "addressTypeCd": "PERMANENT",
+              "addressLine1Lang1": "Vaishali",
+              "addressLine2Lang1": "Mahagun",
+              "stateCd": "UTTAR PRADESH",
+              "cityCd": "Ghaziabad",
+              "pinCode": "201010",
+              "areaCd": "Ghaziabad",
+              "countryCd": "IND"
+            },
+            {
+              "addressTypeCd": "COMMUNICATION",
+              "addressLine1Lang1": "Vaishali",
+              "addressLine2Lang1": "Mahagun",
+              "stateCd": "UTTAR PRADESH",
+              "cityCd": "Ghaziabad",
+              "pinCode": "201010",
+              "areaCd": "Ghaziabad",
+              "countryCd": "IND"
+            }
+          ],
+          "partyContactDOList": [
+            {
+              "contactTypeCd": "MOBILE",
+              "contactNum": 9888883838,
+              "stdCode": "+91"
+            }
+          ],
+          "partyEmailDOList": [
+            {
+              "emailTypeCd": "PERSONAL",
+              "emailAddress": "ashi@monocept.com"
+            }
+          ]
+        }
+      ],
+      "policyAdditionalFieldsDOList": [
+        {
+          "fieldAgree": "YES",
+          "fieldTc": "YES",
+          "field1": "NEWFAVEO",
+          "spCode": "12345721",
+          "spName": "Ramesh"
+        }
+      ],
+      "isPremiumCalculation": "YES",
+      "businessTypeCd": "NEWBUSINESS",
+      "premium": 114324.0,
+      "baseAgentId": "20008325",
+      "proposalNum": "1120002928444",
+      "baseProductId": "10001101",
+      "sumInsured": "093",
+      "term": 3,
+      "coverType": "INDIVIDUAL",
+      "uwDecisionCd": "PENDINGUW",
+      "addOns": "UAR,EVERYDAYCARE,CAREWITHNCB",
+      "sumInsuredValue": "25 Lakhs",
+      "quotationPremium": "54,538",
+      "abacusId": "160",
+      "eldestMemberAge": "5 - 24 years",
+      "faveoOTC": "NO",
+      "productName": "CARE",
+      "productFamilyId": "HEALTH",
+      "isAgentFloat": "False"
+    },
+    "listErrorListList": [
+      
+    ],
+    "errorLists": [
+      
+    ]
+  }
+}
